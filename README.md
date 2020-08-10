@@ -1,7 +1,5 @@
 Hi there 👋
 
-<!--
-**lavixta/lavixta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 Hi everybody, I am Pham Thanh Tú from VietNam and currently i am working as a doctor. I am also data/AI/ML enthusiast. I strongly interest in NLP (Natural Languague 
