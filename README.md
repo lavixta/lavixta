@@ -4,9 +4,9 @@ Hi everybody, I am Pham Thanh Tú from VietNam and a fullstack developer
 - 🔭 Working on multiple frontend and backend projects using React,NextJs and Nodejs
 - 🌱 Really love building artistic and beautiful UI desgin, friendly and convenient UX 
 - 📖 Learning App developement ( Swift, Flutter ), deploy AI/ML in production 
-- 💌 Neovim enthusist 
-<br>
-## Connect with me
+- 💌 Neovim enthusist  
+- 
+### Connect with me
 
 [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thanh-tu-pham-a288ab16a/)
 [<img align="left" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](https://stackoverflow.com/users/16390480/vexliva)
