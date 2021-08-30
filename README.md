@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-Hi everybody, I am Pham Thanh Tú from VietNam and a fullstack developer 
-- 🔭 Working on multiple frontend and backend projects using React,NextJs and Nodejs
+Hi everybody, I am Pham Thanh Tú from VietNam, i am currently a doctor as well as a programmer 
+- 🔭 Building webstite using React,NextJs and Nodejs
 - 🌱 Really love building artistic and beautiful UI desgin, friendly and convenient UX 
 - 📖 Learning App developement ( Swift, Flutter ), deploy AI/ML in production 
 - 💌 Neovim enthusist  
